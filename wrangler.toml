@@ -1,0 +1,3 @@
+[pages]
+command = "npm run build"
+directory = "dist"
